@@ -19,12 +19,13 @@
 ![images/Baseline_Recall.png](images/Baseline_Recall.png)
 
 ![images/Baseline_F1_Score.png](images/Baseline_F1_Score.png)
+
 ## Final Model Results
 
 ![images/Final_loss.PNG](images/Final_loss.PNG)
 
 ![images/Final_Precision.PNG](images/Final_Precision.PNG)
 
-![images/Final_Recall.png](images/Final_Recall.png)
+![images/Final_Recall.png](images/Final_Recall.PNG)
 
-![images/Final_F1_Score.png](images/Final_F1_Score.png)
+![images/Final_F1_Score.png](images/Final_F1_Score.PNG)
